@@ -1,20 +1,20 @@
 ## How To Setup a Java Spark Framework in Eclipse.
 
-# IN PROGRESS!
+This is a basic run down of the steps i use to setup the Java Spark Framework in Eclipse.
+## Tools Used
 
-# Tools Used
-
-* git for windows
+* git *git for windows*
 * Eclipse *Version: Neon.1a Release (4.6.1)*
+* Chrome Browser
 
-### In Git:
+# In Git:
 
 * Clone the example repo into a folder outside of your workspace.
   * ```git clone https://github.com/EntropyHaos/java_spark_demo_base.git exampleRepo```
 
 ![](img/git_step_1.jpg)
 
-### In Eclipse:
+# In Eclipse:
 
 * Create a workspace in an empty folder.
 
@@ -48,7 +48,7 @@
 
 ![](img/eclipse_step_8.jpg)
 
-### In a Browser:
+# In a Browser:
 
  * Visit : ```localhost:8080```
  
