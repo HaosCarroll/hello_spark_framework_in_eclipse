@@ -1,11 +1,12 @@
 ## How To Setup a Java Spark Framework in Eclipse.
 
 This is a basic run down of the steps i use to setup the Java Spark Framework in Eclipse.
+
 ## Tools Used
 
-* git *git for windows*
-* Eclipse *Version: Neon.1a Release (4.6.1)*
-* Chrome Browser
+* [Git](https://git-scm.com/download "Git for window")
+* [Eclipse](https://eclipse.org/downloads/ "Version: Neon.1a Release (4.6.1)")
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html "Browser")
 
 # In Git:
 
@@ -53,10 +54,3 @@ This is a basic run down of the steps i use to setup the Java Spark Framework in
  * Visit : ```localhost:8080```
  
 ![](img/browser_step_1.jpg)
-
-
-
- 
- 
-
-
