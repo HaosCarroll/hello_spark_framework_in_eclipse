@@ -1,5 +1,5 @@
 # Hello Spring Framework in Eclipse
 
-As titled, this explains how to setup a Java Spark Framework example.
+![Spark Framework Logo](img/logo.jpg)
 
-
+How to setup Java Spark Framework on Eclipse.
