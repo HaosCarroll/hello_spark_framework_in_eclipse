@@ -1,5 +1,7 @@
 ## How To Setup a Java Spark Framework in Eclipse.
 
+# IN PROGRESS!
+
 *Using Eclipse Version: Neon.1a Release (4.6.1)*
 
 * Create a new Eclipse workspace. In this example, i did this on my desktop.
